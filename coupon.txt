@@ -7,4 +7,4 @@ ddd
 브랜치 합치기는 기준 브랜치 이동 후 git merge 브랜치명
 충돌 해결은 코드치고 git add & git commit
 
-git올리기
+git올리기  sss ss
